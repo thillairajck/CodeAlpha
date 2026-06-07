@@ -1,2 +1,2 @@
-# CodeAlpha_HangmanGame
-Developed an Hangman Game using python.
+# CodeAlpha Projects
+
